@@ -7,4 +7,4 @@ elif a == b:
 elif a < b:
     print('b is higher than a')
     
-    //If code would be useful to make program has many variable options
+   ## If code would be useful to make program has many variable options
