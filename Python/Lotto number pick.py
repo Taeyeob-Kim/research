@@ -8,4 +8,5 @@ while len(lotto)<6:
     
     print("the lotto numbers are", lotto)
     
-     ## I bought a lotto last night and It passed my mind, I may could make code to pick numbers. And this is what I made. 
+     ## I bought a lotto last night and It passed my mind, I may could make code to pick numbers. And this is what I made.
+        ## Sadly I could not wiu a lotto with numbers created by this code :(
